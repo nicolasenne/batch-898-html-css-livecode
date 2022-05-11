@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:700");
+@import url("https://use.fontawesome.com/releases/v6.1.1/css/all.css");
+
+@import url(components/avatar.css);
+@import url(components/buttons.css);
+@import url(components/card.css);
+@import url(components/utilities.css);
+
+body {
+  background-color: #F4F4F4;
+}
